@@ -1,4 +1,4 @@
-#Data interpretation using SQL#
+#Data interpretation using SQL
 
 This project was done accessing a database called *Northwind Database*. 
 This project answered the following questions
